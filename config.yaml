@@ -1,0 +1,5 @@
+load_best_model_at_end: True
+path_images: "ADD_PATH_IMAGES"
+train_dataset: "ADD_TRAIN_DATA"
+test_dataset: "ADD_TEST_DATA"
+tages_files: "ADD_TEST_DATA"
